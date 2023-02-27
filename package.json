@@ -1,0 +1,14 @@
+{
+  "name": "tester-strings",
+  "version": "1.0.0",
+  "description": "tester strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "mineTest"
+  },
+  "keywords": [
+    "myString"
+  ],
+  "author": "tester string from Aziz",
+  "license": "ISC"
+}
